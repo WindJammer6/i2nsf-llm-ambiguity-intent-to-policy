@@ -1,0 +1,6 @@
+1. Activate the 'hvac' virtual environment with:
+   """
+   conda activate hvac
+   """
+
+2. Then run the Jupyter Notebooks with this 'hvac' virtual environment
